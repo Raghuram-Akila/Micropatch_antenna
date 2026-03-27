@@ -52,7 +52,3 @@ This repository contains microstrip patch antenna designs developed using CST St
 ## 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome.
-
----
-
-📌 *This repository is intended for students, researchers, and RF engineers interested in antenna design and simulation.*
