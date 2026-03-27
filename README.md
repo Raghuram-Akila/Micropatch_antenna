@@ -6,7 +6,7 @@ This repository contains microstrip patch antenna designs developed using CST St
 
 * Single-band and multi-resonant antenna designs
 * FR4 substrate-based implementations (εr ≈ 4.3)
-* Coaxial probe-fed configurations
+* Line Feed or Coaxial probe-fed configurations
 * Techniques for resonance tuning and unwanted frequency suppression
 * Parametric analysis of antenna dimensions
 * Exploration of advanced concepts such as:
